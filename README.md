@@ -10,3 +10,6 @@ The main files in the repository are the following files :
 - [DataValues_S013.csv](datasets/DataValues_s013.csv): Clinical and metabolomic values for 39 patients at 5 time points.
 - [AAInformation_S006.csv](datasets/AAInformation_S006.csv): Additional information on metabolites in the "DataValues_S013.csv" file.
 
+A web interface to this repository can be directly accessed from the following link:
+
+[https://nutrimetabolomics.github.io/Metabotyping2018/](https://nutrimetabolomics.github.io/Metabotyping2018/)
